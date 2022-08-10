@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nezuko Box
+* source:	https://sketchfab.com/3d-models/nezuko-box-7c8b55ddad164e40ac02b6b56a8e7095
+* author:	Avila24 (https://sketchfab.com/Avila24)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nezuko Box" (https://sketchfab.com/3d-models/nezuko-box-7c8b55ddad164e40ac02b6b56a8e7095) by Avila24 (https://sketchfab.com/Avila24) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
